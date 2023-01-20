@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Localizer", "Localizer\Localizer.csproj", "{3B138532-E6A9-4F4E-979F-4C654065406D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Initializer", "Initializer\Initializer.csproj", "{C68CC80D-1B22-4467-AA66-C32CB2E6692A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B138532-E6A9-4F4E-979F-4C654065406D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B138532-E6A9-4F4E-979F-4C654065406D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B138532-E6A9-4F4E-979F-4C654065406D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B138532-E6A9-4F4E-979F-4C654065406D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C68CC80D-1B22-4467-AA66-C32CB2E6692A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C68CC80D-1B22-4467-AA66-C32CB2E6692A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C68CC80D-1B22-4467-AA66-C32CB2E6692A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C68CC80D-1B22-4467-AA66-C32CB2E6692A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F226464-690F-4C3F-B113-16F587D230E7}
+	EndGlobalSection
+EndGlobal

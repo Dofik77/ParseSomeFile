@@ -1,0 +1,54 @@
+﻿{
+  "locales": [
+    {
+      "name": "ru-RU",
+      "values": [
+        {
+          "name": "HeaderText",
+          "value": "Заголовок"
+        },
+        {
+          "name": "NameTextBlock",
+          "value": "Введите ваше имя: "
+        },
+        {
+          "name": "ConfirmButton",
+          "value": "Подтвердить"
+        },
+        {
+          "name": "HelloCaption",
+          "value": "Приветствуем!"
+        },
+        {
+          "name": "HelloMessage",
+          "value": "Здравствуйте, "
+        }
+      ]
+    },
+    {
+      "name": "us-EN",
+      "values": [
+        {
+          "name": "HeaderText",
+          "value": "Header"
+        },
+        {
+          "name": "NameTextBlock",
+          "value": "Enter your name: "
+        },
+        {
+          "name": "ConfirmButton",
+          "value": "Confirm"
+        },
+        {
+          "name": "HelloCaption",
+          "value": "Hello!"
+        },
+        {
+          "name": "HelloMessage",
+          "value": "Hello, "
+        }
+      ]
+    }
+  ]
+}
